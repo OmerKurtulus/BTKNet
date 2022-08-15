@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    border: 1px #eaeaea solid;
+    padding: 10px;
+    margin: 5px;
+}
+div:hover{
+    background-color: #eaea;
+    cursor: pointer;
+}
