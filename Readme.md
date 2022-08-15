@@ -12,7 +12,7 @@
 
 >Script
 
-|script|Açıklama                                                           |
+|script| Açıklama                                                           |
 |-------|------------------------------------------------------------------|
 | start |npm start komutu ile birlikte çalıştırılıcak script belirler.     |
 | start |npm run server komutu ile birlikte çalıştırılıcak script belirler.|
