@@ -12,6 +12,11 @@
 
 >Script
 
+|script|Açıklama                                                           |
+|-------|------------------------------------------------------------------|
+| start |npm start komutu ile birlikte çalıştırılıcak script belirler.     |
+| start |npm run server komutu ile birlikte çalıştırılıcak script belirler.|
+
 * start(npm start)
 * server(npm run server)
 
@@ -34,3 +39,15 @@
 >git branch -d "branchname"
 
 >git push origin -d "branchname"
+
+## JavaScript
+
+## Array üzerinde dolaşma(traverse)
+
+```js
+  for(let person of arr) {
+  const element = document.createElement("div");
+  element.innerHTML = `${person.id} ${person.name} ${person.age}`;
+  document.getElementById("root").append(element);
+}
+```
