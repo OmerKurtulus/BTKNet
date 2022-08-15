@@ -9,5 +9,6 @@ div{
 }
 div:hover{
     background-color: #eaea;
+    color: #fff;
     cursor: pointer;
 }
